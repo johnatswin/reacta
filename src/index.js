@@ -15,7 +15,7 @@ function Example(props) {
   return (
     <div>
       <p>
-        {document.title}You clicked {count.toString()} {name} times
+        {document.title}You------- clicked {count.toString()} {name} times
       </p>
       <button onClick={() => setCount(!count)}>Click me you Cat</button>
 
