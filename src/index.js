@@ -15,7 +15,7 @@ function Example(props) {
   return (
     <div>
       <p>
-        {document.title}Yoou clicked {count.toString()} {name} times
+        {document.title}branchz{count.toString()} {name} times
       </p>
       <button onClick={() => setCount(!count)}>xxxxxxxClicdkmmmmmmm me you Cat</button>
 
